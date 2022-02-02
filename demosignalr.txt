@@ -1,0 +1,5 @@
+https://wpresidence.net/
+http://kodeforest.com/demo/realestate/
+
+https://github.com/JabbR/JabbR/blob/master/JabbR/Hubs/Chat.cs
+https://docs.microsoft.com/en-us/aspnet/signalr/overview/guide-to-the-api/mapping-users-to-connections
